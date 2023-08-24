@@ -18,7 +18,7 @@ Link: https://react-hockey-store.netlify.app
 - Auth0 for log in
 - Airtable for creating the API
 
-# Images
+## Images
 
 ![picture](images_readme/1.PNG)
 ![picture](images_readme/2.PNG)
@@ -26,6 +26,6 @@ Link: https://react-hockey-store.netlify.app
 ![picture](images_readme/4.PNG)
 ![picture](images_readme/5.PNG)
 
-# Link
+## Link
 
-https://react-hockey-store.netlify.app
+Link: https://react-hockey-store.netlify.app
