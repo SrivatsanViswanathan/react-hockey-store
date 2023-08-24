@@ -1,10 +1,10 @@
-## Hockey Store
+# Hockey Store
 
 A hockey store where a person can learn a bit about the company, browse for items, add items to their cart, and purchase items. The user can't checkout until they login.
 
 Link: https://react-hockey-store.netlify.app
 
-# Tools Used
+## Tools Used
 
 - HTML for displaying the content
 - CSS and Styled Components for styling the website
